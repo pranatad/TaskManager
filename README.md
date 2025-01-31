@@ -1,5 +1,10 @@
 # Task Manager
 
+Saya Pranata Dito Fitriyansyah, melampirkan hasil dari pengerjaan saya untuk Fullstack Developer Test dari PT. Bintang Mutli Teknologi
+CV atau Resume    : https://shorturl.at/BEwnQ
+Detail Portofolio : https://shorturl.at/ZbnPc
+
+
 ## Fullstack Developer Test
 
 ### 1. Jelaskan apa itu CORS!
