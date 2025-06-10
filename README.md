@@ -1,36 +1,8 @@
 # Task Manager
 
-Saya Pranata Dito Fitriyansyah, melampirkan hasil dari pengerjaan saya untuk Fullstack Developer Test dari PT. Bintang Mutli Teknologi
-
-
 CV atau Resume    : https://shorturl.at/BEwnQ
 
-
 Detail Portofolio : https://shorturl.at/ZbnPc
-
-
-## Fullstack Developer Test
-
-### 1. Jelaskan apa itu CORS!
-
-CORS (Cross-Origin Resource Sharing) adalah mekanisme keamanan yang mengizinkan atau membatasi akses sumber daya dari domain berbeda. Dalam konteks web, CORS digunakan untuk mengontrol bagaimana suatu situs web dapat meminta data dari domain yang berbeda melalui permintaan HTTP.
-
-### 2. Jelaskan tentang Asynchronous!
-
-Asynchronous adalah metode pemrosesan yang memungkinkan suatu tugas berjalan tanpa harus menunggu tugas lain selesai. Dalam pengembangan web, teknik asinkron digunakan agar aplikasi tetap responsif, misalnya dengan AJAX untuk mengambil data dari server tanpa me-refresh halaman.
-
-### 3. Apa saja yang bisa mengurangi load time website?
-
-Beberapa cara untuk mengurangi load time website:
-
-- **Optimasi Gambar**: Menggunakan format yang lebih efisien seperti WebP.
-- **Gunakan AJAX**: Memuat data secara asinkron tanpa harus me-reload seluruh halaman, meningkatkan kecepatan dan pengalaman pengguna.
-- **Minifikasi File**: Minify CSS, JavaScript, dan HTML.
-- **Caching**: Menggunakan caching browser dan server.
-- **Lazy Loading**: Menunda pemuatan gambar dan konten yang tidak langsung terlihat.
-- **CDN (Content Delivery Network)**: Menggunakan jaringan distribusi untuk mempercepat akses ke sumber daya statis.
-
-### 4. Task Manager Application
 
 Aplikasi ini adalah sistem manajemen tugas sederhana yang memiliki fitur CRUD menggunakan Laravel sebagai backend dan AJAX untuk interaksi frontend.
 
